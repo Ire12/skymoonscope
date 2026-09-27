@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/27-benchmarks-in-ci",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/27-benchmarks-in-ci": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/27-benchmarks-in-ci",
+    "origin"
+  ]
+}
